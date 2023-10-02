@@ -7,4 +7,5 @@
 - Formatting options like font styles, alignment, bold, italic, underline, and customizable colors. 
 - Additionally, an Address Bar, Formula Bar, and support multiple unique sheets in a single Excel page.
 
-<p> 🔗 Let's Connect on **https://www.linkedin.com/in/kinjal-kansara/** </p>
+
+### 🔗 Let's Connect on **https://www.linkedin.com/in/kinjal-kansara/** 
